@@ -88,16 +88,16 @@
 
 ## 🎓 Education
 - **Business Analytics, Postgraduate Degree with Honors**  
-  Seneca Polytechnic College, Toronto (01/2023-12/2023)
+  Seneca Polytechnic College, Canada
 - **Bachelor of Arts**  
-  Islamic Azad University, Iran (09/2002-12/2006)
+  Islamic Azad University, Iran 
 - **Diploma, Mathematics**  
-  Saba College, Iran (09/2000-08/2002)
+  Saba College, Iran 
 
 ## 📜 Certifications
-- **Microsoft Power BI for Business Intelligence** - Udemy Canada (02/2024)
-- **Research Ethics** - Panel on Research Ethics/Government of Canada (10/2023)
-- **Learning Data Analytics** - LinkedIn Learning (02/2023)
+- **Microsoft Power BI for Business Intelligence** - Udemy Canada 
+- **Research Ethics** - Panel on Research Ethics/Government of Canada 
+- **Learning Data Analytics** - LinkedIn Learning 
 
 
 
