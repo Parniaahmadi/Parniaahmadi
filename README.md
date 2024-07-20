@@ -115,7 +115,7 @@
 </div>
 
 
-🌐 [Portfolio](https://github.com/parniaahmadi)
+• 🌐 [Portfolio](https://github.com/parniaahmadi)
 
 • 💼 [LinkedIn](https://www.linkedin.com/in/parnia-a-69667125b/)
 
