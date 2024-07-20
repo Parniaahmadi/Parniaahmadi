@@ -1,5 +1,5 @@
 
-# Hi there,   I'm Parnia Ahmadi 👋   
+# Hi there,    👋   
 
 
 
@@ -10,7 +10,7 @@
     </h1>
 </div>
 
-
+# I'm Parnia Ahmadi
 
 
 🚀 Business Analyst | 🌐 Data-Driven Business Analyst | 📈 Data Analyst
