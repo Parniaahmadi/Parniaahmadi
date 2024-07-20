@@ -20,9 +20,11 @@
 
 ## 🚀 About Me
 
-<div align="center">
-    <p>Greeting! Thank you for taking the time to visit my profile. I'm a result-oriented and analytical-minded Business Analyst with 8+ years of experience in customer service & management, 3 years of experience in QA & data analysis. Proficient in MS Excel, Python, Tableau, and PowerBI, which enables me to optimize project delivery schedules and enhance operational throughput using analytics-driven methodologies.What motivates me is the pursuit of delivering high-quality products and services that meet customer and stakeholder expectations. I value innovation, diversity, and collaboration and would bring a unique experience and perspective to any team..</p>
-</div>
+<p align="center">
+    Greeting! Thank you for taking the time to visit my profile. I'm a result-oriented and analytical-minded Business Analyst with 8+ years of experience in customer service & management, 3 years of experience in QA & data analysis. Proficient in MS Excel, Python, Tableau, and PowerBI, which enables me to optimize project delivery schedules and enhance operational throughput using analytics-driven methodologies.<br><br>
+    What motivates me is the pursuit of delivering high-quality products and services that meet customer and stakeholder expectations. I value innovation, diversity, and collaboration and would bring a unique experience and perspective to any team.
+</p>
+
 
 
 
