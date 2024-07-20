@@ -110,7 +110,9 @@
 
 
 🌐 [Portfolio](https://github.com/parniaahmadi)
+
 • 💼 [LinkedIn](https://www.linkedin.com/in/parnia-a-69667125b/)
+
 • 📧 parnia.ah@gmail.com 
 
 
