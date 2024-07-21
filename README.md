@@ -40,23 +40,6 @@
 </div>
 
 
-## 📊 GitHub Commits
-
-This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parniaahmadi&theme=github-dark&hide_border=true" alt="Parnia's GitHub Streak Stats"/>
-</div>
-
-
-
-## 🐍 GitHub Contributions Snake
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/parniaahmadi/parniaahmadi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
-
-
 
 
 
