@@ -27,36 +27,6 @@
 
 
 
-# .github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Generate snake animation
-        uses: Platane/snk@v2
-        with:
-          github_user_name: parniaahmadi
-          outputs: dist/snake.svg
-      - name: Push generated snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
 
 ## 🛠 Skills
 
