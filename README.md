@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 <div style="text-align: center;">
-    <p>Greeting! Thank you for taking the time to visit my profile. I'm a result-oriented and analytical-minded Business Analyst with 8+ years of experience in customer service & management, 3 years of experience in QA & data analysis. Proficient in MS Excel, Python, Tableau, and PowerBI, which enables me to optimize project delivery schedules and enhance operational throughput using analytics-driven methodologies.</p>
+    <p>Hello and welcome to my profile! I'm Parnia Ahmadi, a results-driven and analytical Business Analyst with over 8 years of experience in customer service and management, and 3 years in QA and data analysis. I excel in leveraging advanced analytical techniques and tools, including MS Excel, Python, Tableau, and PowerBI, to optimize project delivery schedules and enhance operational efficiency through data-driven methodologies.</p>
     <p>
 
 
