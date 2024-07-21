@@ -25,34 +25,6 @@
     <p>
 
 
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Generate snake animation
-        uses: Platane/snk@v2
-        with:
-          github_user_name: parniaahmadi
-          outputs: dist/snake.svg
-      - name: Push generated snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
 
 
@@ -68,6 +40,21 @@ jobs:
 </div>
 
 
+## 📊 GitHub Commits
+
+This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parniaahmadi&theme=github-dark&hide_border=true" alt="Parnia's GitHub Streak Stats"/>
+</div>
+
+
+
+## 🐍 GitHub Contributions Snake
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/parniaahmadi/parniaahmadi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 
 
