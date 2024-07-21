@@ -26,6 +26,9 @@
 
 
 
+## 🐍 GitHub Contributions Snake
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/parniaahmadi/parniaahmadi/output/github-contribution-grid-snake.svg)
 
 
 
