@@ -26,6 +26,12 @@
 
 
 
+## 🚀 About Me
+
+Hello and welcome to my profile! I'm Parnia Ahmadi, a results-driven and analytical Business Analyst with over 8 years of experience in customer service and management, and 3 years in QA and data analysis. I excel in leveraging advanced analytical techniques and tools, including MS Excel, Python, Tableau, and PowerBI, to optimize project delivery schedules and enhance operational efficiency through data-driven methodologies.
+
+My passion lies in delivering high-quality products and services that exceed customer and stakeholder expectations. I thrive in innovative, diverse, and collaborative environments, bringing a unique perspective and a commitment to excellence to every team I join.
+
 ## 📊 GitHub Commits
 
 This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!
