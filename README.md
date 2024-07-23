@@ -63,11 +63,6 @@
 
 
 
-## 🐍 GitHub Contributions Snake
-
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/parniaahmadi/parniaahmadi/output/github-contribution-grid-snake.svg)
-
-
 
 ## 📚 Projects
 ### [Health Sector Data Analysis](https://github.com/Parniaahmadi/Breast-Cancer,BreastCancer.ipynb)
