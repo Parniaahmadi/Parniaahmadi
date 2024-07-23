@@ -15,7 +15,7 @@
 
 
 
-🚀 Business Analyst | 🌐 Data-Driven Business Analyst | 📈 Data Analyst
+🚀 Business Data Analyst | 🌐 Data-Driven Business Data Analyst | 📈 Data Analyst
 
 
 
@@ -23,7 +23,7 @@
 ## 🚀 About Me
 
 <div style="text-align: center;">
-    <p>Hello and welcome to my profile! I'm Parnia Ahmadi, a results-driven and analytical Business Analyst with over 8 years of experience in customer service and management, and 3 years in QA and data analysis. I excel in leveraging advanced analytical techniques and tools, including MS Excel, Python, Tableau, and PowerBI, to optimize project delivery schedules and enhance operational efficiency through data-driven methodologies.</p>
+    <p>Hello and welcome to my profile! I'm Parnia Ahmadi, a results-driven and analytical Business Data Analyst with over 8 years of experience in customer service and management, and 3 years in QA and data analysis. I excel in leveraging advanced analytical techniques and tools, including MS Excel, Python, Tableau, and PowerBI, to optimize project delivery schedules and enhance operational efficiency through data-driven methodologies.</p>
     <p>
 
 
