@@ -68,7 +68,7 @@
 
 
 
-## 🐍 GitHub Contributions Snake
+## 🐍 GitHub Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parniaahmadi/parniaahmadi/output/github-snake-dark.svg" />
