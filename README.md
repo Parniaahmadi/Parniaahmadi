@@ -16,7 +16,7 @@
 
 ## 🐍 GitHub Contributions Snake
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/parniaahmadi)
+![GitHub Contribution Grid Snake](snake.yml)
 
 
 🚀 Business Analyst | 🌐 Data-Driven Business Analyst | 📈 Data Analyst
