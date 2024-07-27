@@ -92,7 +92,7 @@
 ### [Supply Chain Data Analysis](https://github.com/parniaahmadi/customer-service-data-analysis)
 - **Description:** Enhanced Supply Chain strategies by analyzing inventory to identify key areas for improvement.
 - **Tech Stack:** ERP, Power BI,Excel
-- **Features:** S
+- **Features:** 
 
 ## 🎓 Education
 - **Business Analytics, Postgraduate Degree with Honors**  
