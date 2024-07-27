@@ -6,7 +6,7 @@
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=0000FF&center=true&vCenter=true&width=435&lines=HI,...I'm+Parnia+Ahmadi;This+is..;..my+Github.." alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=0000FF&center=true&vCenter=true&width=435&lines=I'm+Parnia+Ahmadi;This+is ;my+Github" alt="Typing SVG"/>
     </h1>
 </div>
 
