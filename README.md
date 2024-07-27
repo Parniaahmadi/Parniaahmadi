@@ -79,10 +79,10 @@
 
 
 ## 📚 Projects
-### [Health Sector Data Analysis](https://github.com/Parniaahmadi/Breast-Cancer,BreastCancer.ipynb)
-- **Description:** Analyzed and de-identified health data from admissions and imaging records to identify key health trends and insights.
-- **Tech Stack:** Numpy, Pandas, Matplotlib, Seaborn, Jupyter Notebook
-- **Features:** Data cleaning, statistical analysis, and visualization of health trends.
+### [Health Sector Data Analysis](https://parniaahmadi.github.io/Breast-Cancer/)
+- **Description:** This project explores essential machine learning components such as feature selection, feature extraction (PCA), and hyperparameter tuning using scikit-learn. KNN is applied to predict breast cancer cases using the Wisconsin dataset through k-fold cross-validation and optimized pipelines to prevent data leakage.
+- **Tech Stack:** Numpy, Pandas, Matplotlib, Seaborn, Jupyter Notebook, Scikit-learn
+- **Features:** Correlation-based feature selection, PCA for feature extraction, Hyperparameter tuning with cross-validation, KNN algorithm for prediction, Pipelines to prevent data leakage
 
 ### [Business Intelligence Dashboard](https://parniaahmadi.github.io/BI-Project/)
 - **Description:** Created a comprehensive Business Intelligence Dashboard using Power BI to transform raw data into professional reports, enabling stakeholders to track KPIs, compare regional performance, analyze product trends, and identify high-value customers.
