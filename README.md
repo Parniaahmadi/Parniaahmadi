@@ -89,10 +89,10 @@
 - **Tech Stack:** PowerBI, DAX, PowerQuery
 - **Features:** Transforming raw data, Data Model and Dax Calculation, Visulization, Interactive Dashboard Design.
 
-### [Customer Service Data Analysis](https://github.com/parniaahmadi/customer-service-data-analysis)
-- **Description:** Enhanced customer service strategies by analyzing customer feedback and service data to identify key areas for improvement.
-- **Tech Stack:** R, Power BI
-- **Features:** Sentiment analysis, customer feedback analysis, and service improvement recommendations.
+### [Supply Chain Data Analysis](https://github.com/parniaahmadi/customer-service-data-analysis)
+- **Description:** Enhanced Supply Chain strategies by analyzing inventory to identify key areas for improvement.
+- **Tech Stack:** ERP, Power BI,Excel
+- **Features:** S
 
 ## 🎓 Education
 - **Business Analytics, Postgraduate Degree with Honors**  
