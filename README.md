@@ -94,6 +94,11 @@
 - **Tech Stack:** ERP, Power BI,Excel
 - **Features:** 
 
+### [Capstone Project](https://github.com/parniaahmadi/customer-service-data-analysis)
+- **Description:** This project contains a report on the unfairness in the mortgage lending industry, which was brought to light in 2021. The main objective of the research is to replicate and analyze the processes that lead to unfair lending practices
+- **Tech Stack:** DOCX, PPTX, JPYNP, Python
+- **Features:** 
+
 ## 🎓 Education
 - **Business Analytics, Postgraduate Degree with Honors**  
   Seneca Polytechnic College, Canada
