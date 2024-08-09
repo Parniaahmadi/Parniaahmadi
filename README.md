@@ -128,7 +128,7 @@
 </div>
 
 
-• 🌐 [Portfolio](https://github.com/parniaahmadi)
+• 🌐 [Portfolio](https://parniatheanalyst.ca/)
 
 • 💼 [LinkedIn](https://www.linkedin.com/in/parnia-a-69667125b/)
 
