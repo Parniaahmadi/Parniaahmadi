@@ -125,9 +125,8 @@
     <a href="https://github.com/Parniaahmadi">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://parniatheanalyst.ca/" target="_blank" rel="noopener noreferrer" class="button website">
+    <a href="https://parniatheanalyst.ca/">
         <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website">
-        WEBSITE
     </a>
     
 </div>
