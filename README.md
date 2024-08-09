@@ -126,8 +126,7 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://parniatheanalyst.ca/">
-        <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website">
-        Website
+        <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=website&logoColor=blue" alt="Website"/>
     </a>
     
 </div>
