@@ -127,6 +127,7 @@
     </a>
     <a href="https://parniatheanalyst.ca/">
         <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website">
+        Website
     </a>
     
 </div>
