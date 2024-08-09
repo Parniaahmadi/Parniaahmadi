@@ -125,15 +125,10 @@
     <a href="https://github.com/Parniaahmadi">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-
-    
-   <a href="https://parniatheanalyst.ca/" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website">
-        </a>
- <a href="https://your-website-url.com" target="_blank" rel="noopener noreferrer" class="button website">
-            <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website">
-            WEBSITE
-        </a>
+    <a href="https://parniatheanalyst.ca/" target="_blank" rel="noopener noreferrer" class="button website">
+        <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website">
+        WEBSITE
+    </a>
     
 </div>
 
@@ -158,83 +153,5 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Social Media Buttons</title>
-    <style>
-        .icon-container {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-        }
-        .button {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 5px 15px;
-            border-radius: 5px;
-            font-family: Arial, sans-serif;
-            font-size: 14px;
-            color: white;
-            text-decoration: none;
-            transition: background-color 0.3s ease;
-        }
-        .linkedin {
-            background-color: #0077B5;
-        }
-        .github {
-            background-color: #181717;
-        }
-        .website {
-            background-color: #4CAF50; /* Change to your preferred color */
-        }
-        .button img {
-            margin-right: 8px;
-            width: 20px; /* Smaller icon size */
-            height: 20px;
-        }
-        .button:hover {
-            opacity: 0.8;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="icon-container">
-        <!-- LinkedIn Button -->
-        <a href="https://www.linkedin.com/in/parnia-a-69667125b/" target="_blank" rel="noopener noreferrer" class="button linkedin">
-            <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn">
-            LINKEDIN
-        </a>
-
-        <!-- GitHub Button -->
-        <a href="https://github.com/Parniaahmadi" target="_blank" rel="noopener noreferrer" class="button github">
-            <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub">
-            GITHUB
-        </a>
-
-        <!-- Website Button -->
-        <a href="https://parniatheanalyst.ca/" target="_blank" rel="noopener noreferrer" class="button website">
-            <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website">
-            WEBSITE
-        </a>
-    </div>
-
-</body>
-</html>
 
 
