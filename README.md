@@ -130,6 +130,10 @@
    <a href="https://parniatheanalyst.ca/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website">
         </a>
+ <a href="https://your-website-url.com" target="_blank" rel="noopener noreferrer" class="button website">
+            <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website">
+            WEBSITE
+        </a>
     
 </div>
 
@@ -156,50 +160,4 @@
 
 
 
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Social Media Icons</title>
-    <style>
-        .icon-container {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-        }
-        .icon-container a img {
-            width: 50px;
-            height: 50px;
-            transition: transform 0.3s ease;
-        }
-        .icon-container a img:hover {
-            transform: scale(1.1);
-        }
-    </style>
-</head>
-<body>
-
-    <div class="icon-container">
-        <!-- GitHub Icon -->
-        <a href="https://github.com/Parniaahmadi" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub">
-        </a>
-
-        <!-- LinkedIn Icon -->
-        <a href="https://www.linkedin.com/in/parnia-a-69667125b/" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn">
-        </a>
-
-        <!-- Website Icon -->
-        <a href="https://your-website-url.com" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website">
-        </a>
-    </div>
-
-</body>
-</html>
 
