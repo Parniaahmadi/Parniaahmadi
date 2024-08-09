@@ -126,7 +126,7 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://parniatheanalyst.ca/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="width: 40px; height: 40px;">
+        <a href="https://your-website-url.com" target="_blank" rel="noopener noreferrer">
 </a>
 
 </div>
