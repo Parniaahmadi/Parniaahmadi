@@ -132,7 +132,9 @@
     
 </div>
 
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="parnia-a-69667125b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/parnia-a-69667125b?trk=profile-badge">Parnia A.</a></div>
+
 
 • 🌐 [Portfolio](https://parniatheanalyst.ca/)
 
