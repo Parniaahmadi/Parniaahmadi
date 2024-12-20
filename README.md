@@ -136,6 +136,8 @@
 
 • 💼 [LinkedIn](https://www.linkedin.com/in/parnia-a-69667125b/)
 
+• 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-username/)
+
 • 📧 parnia.ah@gmail.com 
 
 
