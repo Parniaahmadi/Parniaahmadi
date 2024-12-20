@@ -136,7 +136,9 @@
 
 • 💼 [LinkedIn](https://www.linkedin.com/in/parnia-a-69667125b/)
 
-• 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-username/)
+• 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://ca.linkedin.com/in/parnia-a-69667125b?trk=profile-badge)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="parnia-a-69667125b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/parnia-a-69667125b?trk=profile-badge">Parnia A.</a></div>
+              
 
 • 📧 parnia.ah@gmail.com 
 
