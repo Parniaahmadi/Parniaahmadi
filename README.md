@@ -145,14 +145,5 @@
 
 
 
-<div align="center">
-    <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=3000&color=0000FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Shoot+me+a+message+on+LinkedIn!;I+am+always+down+to+collab:)" alt="Typing SVG"/>
-    </h2>
-</div>
-
-
-
-
 
 
