@@ -15,7 +15,7 @@
 
 
 
-🚀 Business Data Analyst | 🌐 Data-Driven Business Data Analyst | 📈 Data Analyst
+🚀 Business Data Analyst & CSM Expert | 🌐 Data-Driven Business Data Analyst | 📈 Data Analyst 
 
 
 
