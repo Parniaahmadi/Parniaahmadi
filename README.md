@@ -126,7 +126,7 @@
     <a href="https://github.com/Parniaahmadi">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://parniatheanalyst.ca/">
+    <a href="https://parniatheanalyst.fit/">
         <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/>
     </a>
     
@@ -134,7 +134,7 @@
 
 
 
-• 🌐 [Portfolio](https://parniatheanalyst.ca/)
+• 🌐 [Portfolio](https://parniatheanalyst.fit/)
 
 • 💼 [LinkedIn](https://www.linkedin.com/in/parnia-a-69667125b/)
 
