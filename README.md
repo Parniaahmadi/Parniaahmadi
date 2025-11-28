@@ -117,7 +117,7 @@
               
 
 
-## 🌐 Connect with Me
+## 🌐 Connect Me
 
 <div align="center">
     <a href="https://www.linkedin.com/in/parnia-a-69667125b/">
